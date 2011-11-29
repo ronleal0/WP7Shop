@@ -1,0 +1,16 @@
+d:\documents\visual studio 2010\Projects\WP7Shop\WP7Shop\bin\WP7Shop.dll
+d:\documents\visual studio 2010\Projects\WP7Shop\WP7Shop\bin\WP7Shop.pdb
+d:\documents\visual studio 2010\Projects\WP7Shop\WP7Shop\bin\Castle.Core.dll
+d:\documents\visual studio 2010\Projects\WP7Shop\WP7Shop\bin\EntityFramework.dll
+d:\documents\visual studio 2010\Projects\WP7Shop\WP7Shop\bin\FluentNHibernate.dll
+d:\documents\visual studio 2010\Projects\WP7Shop\WP7Shop\bin\Iesi.Collections.dll
+d:\documents\visual studio 2010\Projects\WP7Shop\WP7Shop\bin\NHibernate.ByteCode.Castle.dll
+d:\documents\visual studio 2010\Projects\WP7Shop\WP7Shop\bin\NHibernate.dll
+d:\documents\visual studio 2010\Projects\WP7Shop\WP7Shop\bin\Castle.Core.xml
+d:\documents\visual studio 2010\Projects\WP7Shop\WP7Shop\bin\EntityFramework.xml
+d:\documents\visual studio 2010\Projects\WP7Shop\WP7Shop\bin\FluentNHibernate.pdb
+d:\documents\visual studio 2010\Projects\WP7Shop\WP7Shop\bin\Iesi.Collections.pdb
+d:\documents\visual studio 2010\Projects\WP7Shop\WP7Shop\bin\NHibernate.ByteCode.Castle.xml
+d:\documents\visual studio 2010\Projects\WP7Shop\WP7Shop\obj\Debug\ResolveAssemblyReference.cache
+d:\documents\visual studio 2010\Projects\WP7Shop\WP7Shop\obj\Debug\WP7Shop.dll
+d:\documents\visual studio 2010\Projects\WP7Shop\WP7Shop\obj\Debug\WP7Shop.pdb
